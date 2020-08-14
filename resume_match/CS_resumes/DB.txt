@@ -1,0 +1,65 @@
+﻿Bob Markkula, Database Developer
+
+bob.q.markkula@gmail.com
+
+linkedin.com/in/bobqmarkkula
+
+214-927-0369
+
+ 
+
+Professional Summary
+ 
+
+Adept database developer with 6+ years of experience. Skilled in SQL and Visual Basic. Seeking to raise database efficiency at American Airlines. At Modace Technologies, worked with team of 5 ETL developers on 30+ projects. Exceeded delivery time targets by 20%.
+
+ 
+
+Work Experience
+ 
+
+Database Developer
+
+Modace Technologies
+
+May 2014–May 2019
+
+Collaborated as integral part of team of 5 ETL developers.
+Led completion of 30+ ETL projects to client specs. Met or exceeded client requirements 100% of the time.
+Completed all individual projects and sprints 20% faster than assigned targets.
+Told by supervisor, “You’re the most efficient and accurate ETL developer we’ve ever had.”
+ 
+
+Database Developer
+
+Preston Pay
+
+March 2013–April 2014
+
+Managed 50+ SQL Server databases (SSRS/SSIS) instances over 35 product lifecycle environments.
+Applied data modeling techniques to exceed development performance targets by an average of 15%.
+ 
+
+Education
+ 
+
+2009–2013 Southern Methodist University
+
+Bachelor of Science Degree in Computer Science
+
+Excelled in database architecture coursework.
+Completed a senior project to create a member database for a 50,000-member charitable organization.
+ 
+
+Skills
+ 
+
+Technical Skills: ETL, SQL, .NET, designing database structures, SSRS
+Soft Skills: Teamwork, interpersonal skills, communication, efficiency
+ 
+
+Activities
+ 
+
+Redesigned ETL database architecture for Texas Chapter of national charitable organization.
+Do regular CrossFit as self-care.

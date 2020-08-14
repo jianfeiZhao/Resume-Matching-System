@@ -1,0 +1,91 @@
+﻿Barbara J. Hawkins
+
+Computer Engineer Specializing in Embedded Systems
+
+barbara.hawkins@gmail.com
+
+(513) 952-5653
+
+linkedin.com/in/barbarahawkins
+
+ 
+
+Summary of Qualifications
+ 
+
+Detail-oriented computer engineer with 5+ years of expertise working with embedded systems, artificial intelligence, machine learning, and automation technologies. Increased multiply-accumulate performance on proprietary DSP algorithms by 5% through system and chip analysis revamp. Seeking to leverage first-hand experience with driverless car technology and integrated systems to become the lead computer engineer at Alset Automotive Technologies.
+
+ 
+
+Work Experience
+ 
+
+Embedded Systems Computer Engineer
+December 2016–July 2019
+Artificial Mobility Systems & Design, Cincinnati, OH
+
+Key Qualifications & Responsibilities
+
+Oversaw design, development, and upgrades to system-on-chip devices and Internet-of-Things (IoT) electronics.
+Developed testing methods of prototypes to be used in driverless vehicles, AI assistants, and other commercial endeavors.
+Supervised attributes of microprocessor and microcontroller design to ensure performance, accuracy, and cost-effectiveness.
+Key Achievements
+
+Located 5 incompatibility issues overlooked by QA team before products hit the market.
+Increased multiply-accumulate performance on proprietary DSP algorithms by 5% through analysis overhaul.
+ 
+
+AI / ML Computer Engineer
+June 2014–November 2016
+IoT Research Associates of Ohio, Cincinnati, OH
+
+Key Qualifications & Responsibilities
+
+Developed artificial intelligence and machine learning products, software, and other solutions for commercial, industrial, and educational purposes.
+Tweaked deep-learning systems and associated algorithms for better natural language processing and delivery.
+Designed and conducted research experiments to test theories for improved performance.
+ 
+
+Education
+ 
+
+Bachelor of Science in Computer Engineering Technology
+
+Old Dominion University, Norfolk, VA
+
+Graduation: 2014
+
+Relevant Coursework: Computer Engineering Fundamentals, Wireless Communications & Networking, Computational Algorithms, Natural Language Processing, Internet-of-Things Devices, Data Protection & Security, Software and Hardware Engineering.
+
+ 
+
+Key Skills
+ 
+
+Artificial Intelligence (AI) & Machine Learning (ML)
+Deep Learning for Java (DL4J) toolkit
+Computational Research & Development
+Classification Algorithms
+Edge Computing
+Teamwork
+ 
+
+Certifications
+ 
+
+Certified Master of Electrical and Computer Engineering (CSU)
+Certified Information Systems Security Professional (CISSP)
+ 
+
+Memberships
+ 
+
+Association for Computing Machinery (ACM)
+Association for the Advancement of Artificial Intelligence (AAAI)
+Association for Women in Computing (AWC)
+ 
+
+Languages
+ 
+
+Greek: Basic Conversational Proficiency

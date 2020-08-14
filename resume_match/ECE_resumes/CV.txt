@@ -1,0 +1,46 @@
+﻿Jianfei Zhao (Jeff) Zhao
+(929)326-8728 ● jz3766@nyu.edu ● www.linkedin.com/in/jfzhao1027 ● https://github.com/jianfeiZhao
+EDUCATION
+New York University(NYU), Tandon School of Engineering, Brooklyn, NY                 	            Expected Dec 2020
+Master of Science, Computer Engineering, GPA: 3.6
+Coursework: Data Structure & Algorithm, Computer System Architecture, Machine Learning, Big Data
+Nanjing Uni. of Posts and Telecommunications(NJUPT), Nanjing, Jiangsu, China
+Bachelor of Engineering, Electronic Science and Technology 	June 2019
+
+TECHNICAL SKILLS
+Coding Languages:	Python, Java, C/C++, SQL
+Tools & Technologies:	Spark, Pytorch
+Industry Knowledge:	Recommender Systems, Machine Learning, Deep Learning, Data Mining, Computer Architecture
+
+PROJECTS
+Resume Matching and Jobs Visualization System in Big Data course, NYU	Jul - Aug 2020
+Crawled about 20,000 of jobs data from a job hunting website. Gathered detailed information and stored them into .csv file and MySQL in Azure. Modules used in Python are requests, lxml and multi-threading.
+Used Pyspark to match a given resume to the jobs description base on TF-IDF, recommend jobs with high similarity.
+Doing some analysis on relationships among salary, job demanding, locations, and visualizing the patterns using plotly library in Python.
+Chinese and English Automatic Translation System	May - Jul 2020
+Tools & Technologies: Python / Seq2Seq / Encoder / Decoder / GRU / LSTM / Embedding / Pytorch
+Implemented one-hot encoding for English and Chinese translation data sets, then establish Seq2Seq sequence learning model using Encoder and Decoder with GRU or LSTM.
+The trained model can be used to translate English sentences.
+Embedded Sentry for Gesture Recognition in Real-time Embedded System course, NYU	Apr - May 2020
+Used the data collected from an ADXL345 accelerometer to record a hand movement sequence as a password to "unlock" a resource, e.g. a door. The accelerometer can recognize six different gestures.
+Used SAMD21Xplained as a microcontroller to save the recorded sequence, then user must replicate the password within sufficient tolerances to unlock the resource.
+Used Arduino IDE with SAMD21 packages to implement the code.
+Piano & Guitar Keyboard GUI (Python) in DSP lab course, NYU	Dec 2019
+Simulated the sound of piano and guitar using signal processing algorithms.
+Built a GUI and piano keyboard using Python to generate real-time piano and guitar sound. Libraries used in Python are tkinter, matplotlib and pyaudio.
+
+EXPERIENCE
+SEU-Xilinx FPGA Summer School, Nanjing, China	July 2019
+Learned FPGA advanced design skills using Vivado, Algorithm acceleration design using HLS, ZYNQ hardware and software design framework integrated into the Python ecosystem.
+Made a small project using FPGA(PYNQ) base on computer vision algorithm.
+Electrical Engineering Intern, ZTE Corporation, Nanjing, China	Mar - Apr 2019
+Learned to use Cadence Allegro EDA software.
+Complete the device layout and wiring according to the schematic diagram provided by the engineer.
+Black Phosphorus Field Effect Transistor(FET) Project, NJUPT, China 
+Research Member	Mar 2017 - Nov 2018
+Simulated the model of black phosphorus FET with different structure and calculated the sub-threshold slope, drive current, and switch current ratio of the transistors using MATLAB and Python, and compared them with the conventional black phosphorus FET.
+Applied two patents for utility models based on the research above.
+Graduate School of Information, Production and Systems Visiting Program
+Waseda University, Kitakyushu, Japan	August 2017
+Enrolled in seminars including Robotics, Mechatronics, Algorithms and Programming, Bioelectronics and etc.
+Visited multinational companies including Nissan, TOTO, Toyota and Yaskawa

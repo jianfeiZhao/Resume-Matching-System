@@ -1,0 +1,30 @@
+﻿Shuyang CAO 
+(+86) 18801496005/(+1)(347)307-4563
+csy1030@126.com
+4-1-604 No.101 Sanluju Fengtai District Beijing, China
+Education
+Sept.2019-Now       New York University              MS of Engineering
+                 Major: Electrical & Computer Engineering
+                 GPA3.76/4.0 Course: Probabilty & Stochastic Process, Data Structure and Algorithm, Intro to Power, Power Drive, Resonant Power Converts, Big Data, Internet Protocol
+Sept.2015-Jun.2019
+	Beijing University of Technology   BA of Engineering	
+	Major: Electronic & Information Engineering
+GPA3.49/4.0 Course: Principle of Communication, Theory of Information, High-Frenquency Electronic Circuit, Analogic Electronic Circuits, Digital Signal Processing, Image & Video Processing
+Practical Experience
+Oct. 2018- Jan. 2019	Intern Engineer, Siemens Corporate Technology China (CT CN), Beijing, China
+  	Studied and used technologies related to data analytics and artificial intelligence for applications of in PV Load Forecast.
+Programmed in Python to realize Expert System for PV Load Forecast and Big Data Analysis for Online PV Panel Fault Diagnose. Successfully forecast the PV load in various weather and light conditions. 
+Participated in group meeting. Introduced Knime and my program to team leaders. Highly appreciated in my achievements.
+Jul. 2018-Aug. 2018	Intern Engineer, Beijing Institute of Metrology, Beijing, China
+	Ran the pressure test, leakage test, and insulation test on electronic instruments and performed the instrument calibration;
+Collected and analyzed experiment data to prepare the test report.
+Research Experience
+Jul.2017-Aug.2017	Underwater Communication Transmitter-Receiver, Institute of Acoustics of the Chinese Academy of Sciences
+Programmed in C to develop the system and build the visual interface;
+Converted electric signal into sound signal which will be converted into electric signal again by the receiver, realizing multiplex communication function.
+Dec.2018-June.2019	Advanced Driver Assistant System Based on Fatigue Detection and Face Recognition
+Designed and develop two main parts of the system in C++: Fatigue Detection and Face Recognition 
+Fatigue Detection is based on dlib face landmark and HOG feature. Face recognition is based on ResNet. Extract the eye blinking feature and distinguish the driving fatigue situation. 
+Turn the face images into 128 vector information. Map this information with drivers in order to recognize the identity.
+Design and develop user interface. Click buttons to realize the system. It is easy to use.
+Fatigue detection and face recognition is robust to various light condition, face direction, covers, etc.
