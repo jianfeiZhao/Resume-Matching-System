@@ -1,6 +1,8 @@
 ## Resume-Matching-System
 This is a class project in Big Data course, NYU Tandon
 
+Open CP_report.pdf to see the report of our project, which includes the introduction, methods we used and result show up.
+
 * *Project title:*
 Resume matching using text processing techniques
 
